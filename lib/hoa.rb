@@ -11,4 +11,4 @@ def add_character(show, name)
     show << "name"
   :show
 end
-puts show
+puts :show
